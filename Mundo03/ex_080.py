@@ -12,10 +12,12 @@ while True:
         pos = 0
         while pos < len(lista):
             if valor <= lista[pos]:
-                print(f'valor {valor} adicionado na posição {lista.insert(pos, valor)}')
+                lista.insert(pos, valor)
+                print(f'valor {valor} adicionado na posição {pos} da lista')
                 break
             pos += 1
     cont += 1
+    if cont == 5:
+        break
 print(f'Os números em ordem são: {lista}')
         
-    
