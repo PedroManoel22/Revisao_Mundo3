@@ -24,4 +24,3 @@ while total <= jogos:
 print(f'{"--->":<2}', end='')
 print(f' {"BOA SORTE!"} ',end='')
 print('<---')
- 
