@@ -20,4 +20,3 @@ while True:
     if cont == 5:
         break
 print(f'Os números em ordem são: {lista}')
-        
