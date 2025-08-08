@@ -1,2 +1,22 @@
 # Revisao_Mundo03
+ Revisão de todos os exercícios do **Mundo02** do professor Gustavo Guannabara
++ __Exerc_72:__ Crie um programa que tenha uma _tupla_ totalmente preenchida com uma contagem por extenso, de _zero_ até _vinte_. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por _extenso_;
++ __Exerc_73:__ Crie uma _tupla_ preenchida com os 20 primeiros colocados da tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre: a) os 5 primeiros colocados; b) os últimos 4 colocados; c) times em ordem alfabética; d) em que posição está o time do Flamengo;
++ __Exerc_74:__ Crie um programa que vai gerar _cinco números aleatórios_ e colocar em uma _tupla_. Depois disso, mostre a _listagem de números_ gerados e também o _menor_ e o _maior_ valor que estão na tupla;
++ __Exerc_75:__ Desenvolva um programa que leia _quatro valores_ pelo _teclado_ e guarde-os em uma tupla. No final, mostre: a) quantas vezes apareceu o valor 9 ; b) em que posição foi digitado o primeiro valor 3; c) quais foram os números pares;
++ __Exerc_76:__ Crie um programa que tenha uma _tupla_ única com _nomes de produtos_ e seus respectivos _preços_, na sequência. No final, mostre uma listagem de preços, organizando os dados em foma _tabular_;
++ __Exerc_77:__ Crie um programa que tenha uma _tupla_ com _várias palavras_ (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são suas _vogais_;
++ __Exerc_78:__ Faça um programa que leia _5 valores numéricos_ e guarde-os em uma _lista_. No final, mostre qual foi o _maior_ e o _menor_ valor digitado e as suas respectivas _posições_ na lista;
++ __Exerc_79:__ Crie um programa onde o usuário possa digitar vários _valores numéricos_ e cadastre-os em uma _lista_. Caso o números já exista lá dentro, ele _não será adicionado_. No final, serão exibidos todos os _valores únicos_ digitados, _em ordem crescente_;
++ __Exerc_80:__ Crie um programa onde o usuário possa digitar cinco _valores numéricos_ e cadastre-os em uma _lista_, _já na posição correta_ da inserção (sem usar o sort()). No final, mostre a _lista ordenada_ na tela;
++ __Exerc81:__ Crie um programa que vai ler _vários números_ e colocar em uma _lista_. Depois disso, mostre: a) _quantos_ números foram digitados; b) a lista de valores, ordenada de forma _decrescente_; c) se o valor 5 foi digitado e está ou não na lista;
++ __Exerc_82:__ Crie um programa que vai ler _vários números_ e colocar em uma lista. Depois disso, crie _duas listas extras_ que vão conter apenas os valores pares e os valores ímpares digitados respectivamente. Ao final, mostre o conteúdo das _três listas_ geradas;
++ __Exerc_83:__ Crie um programa onde o usuário digite uma _expressão_ qualquer que use _parênteses_. Seu aplicativo deverá analisar se a expressão passada com os parênteses abertos fechados na ordem correta;
++ __Exerc_84:__ Faça um programa que leia _nome e peso_ de _várias pessoas_, guardando tudo em uma _lista_. No final, mostre: a) _quantas_ pessoas foram cadastradas; b) Uma listagem com as pessoas mais _pesadas_; c) uma listagem com as pessoas mais _leves_;
++ __Exerc_85:__ Crie um programa onde o usuário possa digitar _sete valores numéricos_ e cadastre-os em uma _lista única_ que mantenha separados os valores _pares_ e _ímpares_. No final, mostre os valores pares e ímpares em ordem _crescente_;
++ __Exerc_86:__ Crie um programa que crie uma _matriz_ de _dimensão 3x3_ e preencha com valores lidos pelo teclado. No final, mostre a _matriz_ na tela, com a formatação correta;
++ __Exerc_87:__ Aprimore o _desafio anterior_, mostrando no final: a) a _soma_ de todos os _valores pares_ digitados; b) A _soma_ dos valores da _terceira coluna_; c) o _maior_ valor da _segunda linha_;
++ __Exerc_88:__ Faça um programa que ajude um jogador da _MEGA SENA_ a criar _palpites_. O programa vai perguntar _quantos jogos_ serão gerados e vai sortear _6 números entre 1 a 60_ para cada jogo, cadastrando tudo em uma _lista composta_;
++ __Exerc_89:__ Crie um programa que leia _nome_ e _duas notas_ de vários alunos e guarde tudo em uma _lista composta_. No final, mostre um _boletim_ contendo a _média_ de cada um e permita que o usuário possa mostrar as _notas_ de cada aluno individualmente;
++ __Exerc_90:__ Faça um programa que leia _nome e média_ de um aluno, guardando também a _situação_ em um _dicionário_. No final, mostre o conteúdo da estrutura na tela;
  
