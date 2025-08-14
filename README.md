@@ -1,5 +1,5 @@
 # Revisao_Mundo03
- Revisão de todos os exercícios do **Mundo02** do professor Gustavo Guannabara
+ Revisão de todos os exercícios do **Mundo02** do professor Gustavo Guanabara
 + __Exerc_72:__ Crie um programa que tenha uma _tupla_ totalmente preenchida com uma contagem por extenso, de _zero_ até _vinte_. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por _extenso_;
 + __Exerc_73:__ Crie uma _tupla_ preenchida com os 20 primeiros colocados da tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre: a) os 5 primeiros colocados; b) os últimos 4 colocados; c) times em ordem alfabética; d) em que posição está o time do Flamengo;
 + __Exerc_74:__ Crie um programa que vai gerar _cinco números aleatórios_ e colocar em uma _tupla_. Depois disso, mostre a _listagem de números_ gerados e também o _menor_ e o _maior_ valor que estão na tupla;
