@@ -19,4 +19,10 @@
 + __Exerc_88:__ Faça um programa que ajude um jogador da _MEGA SENA_ a criar _palpites_. O programa vai perguntar _quantos jogos_ serão gerados e vai sortear _6 números entre 1 a 60_ para cada jogo, cadastrando tudo em uma _lista composta_;
 + __Exerc_89:__ Crie um programa que leia _nome_ e _duas notas_ de vários alunos e guarde tudo em uma _lista composta_. No final, mostre um _boletim_ contendo a _média_ de cada um e permita que o usuário possa mostrar as _notas_ de cada aluno individualmente;
 + __Exerc_90:__ Faça um programa que leia _nome e média_ de um aluno, guardando também a _situação_ em um _dicionário_. No final, mostre o conteúdo da estrutura na tela;
++ __Exerc_91:__ Crie um programa onde _4 jogadores_ joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado;
++ __Exerc_92:__ Crie um programa que leia _nome, ano de nascimento e carteira de trabalho_ e cadastre-os (com idade) em um dicionário se por acaso a CTPS for diferente de zero, o dicionário receberá também o ano de contratação e o salário. Calcule e acrescente além da idade, com quantos anos a pessoa vai ser aposentar;
++ __Exerc_93:__ Crie um programa que gerencie o aproveitamento de um _jogador de futebol_. O programa vai ler o _nome do jogador_ e _quantas partidas_ ele jogou. Depois vai ler a _quantidade de gols_ feitos em _cada partida_. No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato;
++ __Exerc_94:__ Crie um programa que leia _nome_, _sexo_ e _idade_ de várias pessoas, guardando os dados de cada pesssoa em um dicionário e todos os dicionários em uma lsita. No final mostre: a) Quantas pessoas cadastradas; b) A média de idade; c) Uma lista com mulheres; d) Uma lista com idade acima da média;
++ __Exerc_95:__
+
  
