@@ -22,7 +22,11 @@
 + __Exerc_91:__ Crie um programa onde _4 jogadores_ joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado;
 + __Exerc_92:__ Crie um programa que leia _nome, ano de nascimento e carteira de trabalho_ e cadastre-os (com idade) em um dicionário se por acaso a CTPS for diferente de zero, o dicionário receberá também o ano de contratação e o salário. Calcule e acrescente além da idade, com quantos anos a pessoa vai ser aposentar;
 + __Exerc_93:__ Crie um programa que gerencie o aproveitamento de um _jogador de futebol_. O programa vai ler o _nome do jogador_ e _quantas partidas_ ele jogou. Depois vai ler a _quantidade de gols_ feitos em _cada partida_. No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato;
-+ __Exerc_94:__ Crie um programa que leia _nome_, _sexo_ e _idade_ de várias pessoas, guardando os dados de cada pesssoa em um dicionário e todos os dicionários em uma lsita. No final mostre: a) Quantas pessoas cadastradas; b) A média de idade; c) Uma lista com mulheres; d) Uma lista com idade acima da média;
-+ __Exerc_95:__
++ __Exerc_94:__ Crie um programa que leia _nome_, _sexo_ e _idade_ de várias pessoas, guardando os dados de cada pesssoa em um dicionário e todos os dicionários em uma lista. No final mostre: a) Quantas pessoas cadastradas; b) A média de idade; c) Uma lista com mulheres; d) Uma lista com idade acima da média;
++ __Exerc_95:__ Aprimore o _DESAFIO 093_ para que ele funcione com _vários jogadores_, incluindo um sistema de visualizações de _detalhes de aproveitamento_ de cada jogador;
++ __Exerc_96:__ Faça um programa que tenha uma _função_ chamada 'área()', que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a _área do terreno_;
++ __Exerc_97:__
+
+
 
  
