@@ -30,6 +30,16 @@
 + __Exerc_99:__ Faça um programa que tenha uma _função_ chamada _maior()_, que receba vários _parâmetros_ com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o _maior_;
 + __Exerc_100:__ Faça um programa que tenha uma lista chamada números e duas _funções_ chamadas _sorteio()_ e _somapar()_. A primeira função vai sortear _5 números_ e vai colocá-los dentro da lista e a segunda função vai mostrar a _soma_ entre os valores _pares_ sorteados pela função anterior;
 + __Exerc_101:__ Crie um programa que tenha uma _função_ chamada _voto()_ que vai receber como _parâmetro_ o ano de nascimento de uma pessoa, retornando um valor literal indicando se a pessoa tem voto _NEGADO, OPCIONAL ou OBRIGATÓRIO_ nas eleições;
++ __Exerc_102:__ Crie um programa que tnha uma _função fatorial()_ que receba dois parâmetros: o primeiro que indique o _número_ a calcular e o outro chamado _show_, que será um valor lógico(opcional) incdicando se será mostrado ou não na tela o processo de cálculo do fatorial;
++ __Exerc_103:__ Faça um programa que tenha uma _função_ chamada _ficha()_, que receba dois _parâmetros opcionais_: o _nome_ de um jogador e quantos _gols_ ele marcou. O programa deverá ser capaz de mostrar a _ficha do jogador_, mesmo que algum dado não tenha sido informado corretamente;
++ __Exerc_104:__ Crie um programa que tenha a _função leiaint()_, que vai funcionar de forma semelhante à função input() do python, só que fazendo a _validação_ para aceitar apenas um valor númerico, ex: n = leiaint('Digite um n');
++ __Exerc_105:__ Faça um programa que tenha uma função _notas()_ que pode receber várias notas de alunos e vai retonar um dicionário com as seguintes informações: - Quantidade de notas; - A maior nota; - A menor nota; - A média da turma; A situação (opcional) adicione também as docstrings;
++ __Exerc_106:__ Faça um mini_sistema que utilize o interactive Help do Python. O usuário vai digitar o comando e o manula vai aparecer. Quando o usuário digitar a palavra 'FIM', o programa se encerrará. OBS: use as cores;
++ __Exerc_107:__ Crie um módulo chamado _moeda.py_ que tenha as funções incorporadas _aumentar()_, _diminuir()_, _dobro()_ e _metade()_. Faça também um programa que importe esse módulo e use algumas dessas funções;
++ __Exerc_108:__ Adapte o código do desafio 107, criando uma função adicional chamada moeda() que consiga mostrar os valores como um valor monetário formatado;
++ __Exerc_109:__ Modifique as funções que foram criadas no _desafio 107_ para que elas aceitem _um parâmetro_ a mais, informando se o valor retornado por elas vai ser ou não formatado pela função _moeda()_, desenvolvida no _desafio 108_;
++ __Exerc_110:__ Adicione ao módulo _moeda.py_ criado nos desafios anteriores, se uma funçõa chamada _resumo()_, que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui;
++ __Exerc_111:__ Crie um _pacote_ chamado _utilidadesCeV_ que tenha dois _módulos internos_ chamados _moeda_ e _dado_> Transfira todas as funções utilizadas nos _desafios 107, 108 e 109_ para o primeiro pacote e mantenha tudo funcionando;
 + 
 
 
