@@ -39,7 +39,7 @@
 + __Exerc_108:__ Adapte o código do desafio 107, criando uma função adicional chamada moeda() que consiga mostrar os valores como um valor monetário formatado;
 + __Exerc_109:__ Modifique as funções que foram criadas no _desafio 107_ para que elas aceitem _um parâmetro_ a mais, informando se o valor retornado por elas vai ser ou não formatado pela função _moeda()_, desenvolvida no _desafio 108_;
 + __Exerc_110:__ Adicione ao módulo _moeda.py_ criado nos desafios anteriores, se uma função chamada _resumo()_, que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui;
-+ __Exerc_111:__ Crie um _pacote_ chamado _utilidadesCeV_ que tenha dois _módulos internos_ chamados _moeda_ e _dado_> Transfira todas as funções utilizadas nos _desafios 107, 108 e 109_ para o primeiro pacote e mantenha tudo funcionando;
++ __Exerc_111:__ Crie um _pacote_ chamado _utilidadesCeV_ que tenha dois _módulos internos_ chamados _moeda_ e _dado_. Transfira todas as funções utilizadas nos _desafios 107, 108 e 109_ para o primeiro pacote e mantenha tudo funcionando;
 + __Exerc_112:__ Dentro do pacote _utilidadesCeV_ que criamos no desafio 111, temos um módulo chamado _dado_. Crie uma função chamada _leiadinheiro()_ que seja capaz de funcionar como a função _input()_, mas com uma _validação de dados_ para aceitar apenas valores que sejam _monetários_;
 + __Exerc_113:__ Reescreva a função _leiaint()_ que fizemos no _desafio 104_, incluindo agora a possibilidade de digitação de um número de tipo inválido. Aproveite e crie também uma função _leiafloat()_ com a mesma funcionalidade;
 + __Exerc_114:__ Crie um código em Python que teste se o site _Pudim_ está acessível pelo computador usado;
